@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">AsyncTaskDemo</string>
     <string name="start">Start</string>
+    <string name="title">Downloading</string>
+    <string name="message">Please wait while loading...</string>
+    <string name="cancel">Cancel</string>
+    <string name="success_msg">Download successful...</string>
+    <string name="failure_msg">Download failed</string>
 </resources>
